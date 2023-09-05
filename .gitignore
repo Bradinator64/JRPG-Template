@@ -73,9 +73,36 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-#Added by me
-Content/Characters
-Content/Enemies
+# Character assets
+Content/Characters/ParagonFey
+Content/Characters/ParagonGideon
+Content/Characters/ParagonGreystone
+
+Content/Enemies/Elemental_Robot
+Content/Enemies/Enemy_Bear
+Content/Enemies/Enemy_Chicken
+Content/Enemies/Enemy_Clot_Worm
+Content/Enemies/Enemy_Creature_Spider
+Content/Enemies/Enemy_Forge_King
+Content/Enemies/Enemy_Frost_Giant
+Content/Enemies/Enemy_Golem
+Content/Enemies/Enemy_Great_Spider
+Content/Enemies/Enemy_Greater_Spider_Boss
+Content/Enemies/Enemy_Gruntling
+Content/Enemies/Enemy_Gruntling_Avalanche
+Content/Enemies/Enemy_Gruntling_Glacer
+Content/Enemies/Enemy_Gruntling_Guardian
+Content/Enemies/Enemy_Gruntling_Scud
+Content/Enemies/Enemy_Gruntling_Weapons
+Content/Enemies/Enemy_Master_Grunt
+Content/Enemies/Enemy_Robo_Golem
+Content/Enemies/Enemy_Spiderling
+Content/Enemies/Enemy_Task_Master
+Content/Enemies/Enemy_Troll
+Content/Enemies/Enemy_Wolf
+Content/Enemies/SK_Mannequin_Skeleton.uasset
+
+# Other included assets
 Content/Maps
 Content/Sound
 Content/StarterContent
