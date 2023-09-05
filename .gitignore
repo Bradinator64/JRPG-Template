@@ -103,7 +103,11 @@ Content/Enemies/Enemy_Wolf
 Content/Enemies/SK_Mannequin_Skeleton.uasset
 
 # Other included assets
-Content/Maps
+
+Content/Maps/Materials
+Content/Maps/Meshes
+Content/Maps/Textures
+
 Content/Sound
 Content/StarterContent
 Content/VFX
